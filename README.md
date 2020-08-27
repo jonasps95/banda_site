@@ -1,4 +1,4 @@
-# Site Hamburgueria
+# Site Banda
 > Site Desenvolvido para praticar Front-End (HTML5,CSS3, E JQuery).
 
 Site desenvolvido com a idéia de melhorar um site ja existente feito em wordpress.
